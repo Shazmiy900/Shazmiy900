@@ -1,14 +1,22 @@
-# 👋 Привет! Я Вячеслав
+# 👋 Hello
 
-🚀 Backend-разработчик / Go-разработчик  
+🚀 Backend/Golang developer 
 📍 Working from home  
-📫 Контакты: tg: @shazmiy
+📫 Contacts: tg: @shazmiy
 
-## 💻 Технологии
-![GitHub Skills](https://skillicons.dev/icons?i=go,docker,git)
+## 💻 Tech Stack
 
-## ⭐ Проекты
-- 📌 **audio-code-transcriber** — транскрибатор аудио-кода
-- 📌 **price-watchers** — мониторинг цен
-- 📌 **sms-forwarding-partners** — SMS-форвардер
+### 🧠 Backend
+![Backend](https://skillicons.dev/icons?i=go,python,docker)
+
+### 📨 Messaging
+Kafka • NATS
+
+### 🗄️ Databases
+PostgreSQL • ClickHouse • Redis
+
+## ⭐ Projects
+- 📌 **audio-code-transcriber**
+- 📌 **price-watchers**
+- 📌 **sms-forwarding-partners**
 
